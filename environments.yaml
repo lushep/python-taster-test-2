@@ -1,0 +1,7 @@
+name: python-taster
+
+dependencies:
+- jupyter
+- python
+- pandas
+- matplotlib
