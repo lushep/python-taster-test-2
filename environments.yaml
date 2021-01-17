@@ -1,8 +1,9 @@
 name: python-taster
 
 dependencies:
-- python=3.8
-- jupyter
-- python
-- pandas
-- matplotlib
+  - python=3.4
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
