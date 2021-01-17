@@ -1,6 +1,7 @@
 name: python-taster
 
 dependencies:
+- python=3.8
 - jupyter
 - python
 - pandas
